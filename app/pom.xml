@@ -31,6 +31,8 @@
             <scope>test</scope>
         </dependency>
         <!-- end::tests[] -->
+
+
     </dependencies>
 
     <properties>
